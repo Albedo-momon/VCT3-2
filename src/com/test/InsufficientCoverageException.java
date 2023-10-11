@@ -10,5 +10,7 @@ public class InsufficientCoverageException extends Exception{
 		System.out.println("feature-2 commit checking");
 		System.out.println("feature-2 commit checking");
 		System.out.println("feature-2 commit checking");
+		
+		System.out.println("inside sub branch of feature-2");
 	}
 }
